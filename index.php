@@ -19,8 +19,7 @@
 </head>
 <body>
 <h3 style="background-color:powderblue; color:red">MNNIT</h1>   
-<h5><b>Name:</b>    Ankit Mishra</h3>
-<h5><b>Reg. no.</b> 2019CA36</h3>
+<h5><b>Team Name:</b>    Webecom</h3>
 <div class="header">
 	<h2>Home Page</h2>
 </div>
